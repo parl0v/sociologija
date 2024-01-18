@@ -93,7 +93,7 @@
 
 **Referentna grupa** - pojam koji se odnosi na skupinu s kojom se pojedinac ili neka druga skupina uspoređuje
 
-### Društvene mreže (2.4)
+### Društvene mreže (2.4.)
 
 **Društvena mreža** - skup društvenih odnosa između pojedinaca koji su međusobno povezani na određeni način
 
