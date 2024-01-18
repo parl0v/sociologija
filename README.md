@@ -1,0 +1,2 @@
+# sociologija
+sociologija yaaay
