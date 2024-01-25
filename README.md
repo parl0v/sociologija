@@ -195,7 +195,7 @@
 3. **egalitarni** - jednaka raspodjela moći među supružnicima
 ### Brak i vrste braka (4.3.)
 
-**Brak** - društveno prihvaćena seksuačna zajednica dviju ili više osoba
+**Brak** - društveno prihvaćena seksualna zajednica dviju ili više osoba, istog ili različitog spola 
 
 **Monogamija** - brak između 2 osobe
 
